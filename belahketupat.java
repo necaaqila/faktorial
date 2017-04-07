@@ -6,7 +6,7 @@ public class belahketupat{
 		int n = 12/2;
 		for(int i=1;i<=n;i++){
 			for(int k=n;k>i;k--){
-				System.out.print(" ");
+				System.out.print("0");
 			}
 			for(int j=1;j<=a;j++){
 				System.out.print("*");
@@ -17,7 +17,7 @@ public class belahketupat{
 		a -= 4;
 		for(int i =(n-1);i>=1;i--){
 			for(int k=i;k<=(n-1);k++){
-				system.out.print(" ");
+				system.out.print("0");
 			}
 			for(int j=a;j>=j;j--){
 				System.out.print("*");
